@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygenindex xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="index.xsd" version="1.9.6" xml:lang="en-US">
+  <compound refid="class_address_generator" kind="class"><name>AddressGenerator</name>
+    <member refid="class_address_generator_1a85d60347bcfc913b9a7bbbd8fd9ef34f" kind="variable"><name>address</name></member>
+    <member refid="class_address_generator_1aa1d945ea60590100c4cb7b487368f60b" kind="function"><name>AddressGenerator</name></member>
+    <member refid="class_address_generator_1a0710847385f117fd388e80910e76aa46" kind="function"><name>generateIPv4</name></member>
+    <member refid="class_address_generator_1ab26a4bbab5dff2cd5f71cd58a735c66c" kind="function"><name>generateSubnet</name></member>
+  </compound>
+  <compound refid="interface_i_address" kind="interface"><name>IAddress</name>
+    <member refid="interface_i_address_1acc431740c074bb16af3de51ac0db06c4" kind="function"><name>generateIPv4</name></member>
+    <member refid="interface_i_address_1a0cf242a5563a18b93c0554a88b4bd29a" kind="function"><name>generateSubnet</name></member>
+  </compound>
+  <compound refid="class_ip_1_1_program" kind="class"><name>Ip::Program</name>
+    <member refid="class_ip_1_1_program_1a4163578e501d02207a942c34aa6fccf0" kind="function"><name>Main</name></member>
+  </compound>
+  <compound refid="namespace_ip" kind="namespace"><name>Ip</name>
+  </compound>
+  <compound refid="namespace_system" kind="namespace"><name>System</name>
+  </compound>
+  <compound refid="namespace_system_1_1_collections_1_1_generic" kind="namespace"><name>System::Collections::Generic</name>
+  </compound>
+  <compound refid="namespace_system_1_1_linq" kind="namespace"><name>System::Linq</name>
+  </compound>
+  <compound refid="namespace_system_1_1_net" kind="namespace"><name>System::Net</name>
+  </compound>
+  <compound refid="namespace_system_1_1_text" kind="namespace"><name>System::Text</name>
+  </compound>
+  <compound refid="namespace_system_1_1_threading_1_1_tasks" kind="namespace"><name>System::Threading::Tasks</name>
+  </compound>
+  <compound refid="_address_generator_8cs" kind="file"><name>AddressGenerator.cs</name>
+  </compound>
+  <compound refid="index_8md" kind="file"><name>index.md</name>
+  </compound>
+  <compound refid="_program_8cs" kind="file"><name>Program.cs</name>
+  </compound>
+  <compound refid="md__c___users__pc__one_drive__desktop__ip__ip_index" kind="page"><name>md_C__Users_Pc_OneDrive_Desktop_Ip_Ip_index</name>
+  </compound>
+  <compound refid="dir_9eb4027c1a5cd2640c4a22ab7a02528c" kind="dir"><name>C:/Users/Pc/OneDrive/Desktop/Ip/Ip</name>
+  </compound>
+</doxygenindex>

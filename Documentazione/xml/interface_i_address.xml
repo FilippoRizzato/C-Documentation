@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.6" xml:lang="en-US">
+  <compounddef id="interface_i_address" kind="interface" language="C#" prot="public">
+    <compoundname>IAddress</compoundname>
+    <derivedcompoundref refid="class_address_generator" prot="public" virt="non-virtual">AddressGenerator</derivedcompoundref>
+      <sectiondef kind="public-func">
+      <memberdef kind="function" id="interface_i_address_1acc431740c074bb16af3de51ac0db06c4" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>string</type>
+        <definition>string IAddress.generateIPv4</definition>
+        <argsstring>()</argsstring>
+        <name>generateIPv4</name>
+        <qualifiedname>IAddress.generateIPv4</qualifiedname>
+        <reimplementedby refid="class_address_generator_1a0710847385f117fd388e80910e76aa46">generateIPv4</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Pc/OneDrive/Desktop/Ip/Ip/AddressGenerator.cs" line="6" column="12"/>
+      </memberdef>
+      <memberdef kind="function" id="interface_i_address_1a0cf242a5563a18b93c0554a88b4bd29a" prot="public" static="no" const="no" explicit="no" inline="no" virt="non-virtual">
+        <type>string</type>
+        <definition>string IAddress.generateSubnet</definition>
+        <argsstring>()</argsstring>
+        <name>generateSubnet</name>
+        <qualifiedname>IAddress.generateSubnet</qualifiedname>
+        <reimplementedby refid="class_address_generator_1ab26a4bbab5dff2cd5f71cd58a735c66c">generateSubnet</reimplementedby>
+        <briefdescription>
+        </briefdescription>
+        <detaileddescription>
+        </detaileddescription>
+        <inbodydescription>
+        </inbodydescription>
+        <location file="C:/Users/Pc/OneDrive/Desktop/Ip/Ip/AddressGenerator.cs" line="7" column="12"/>
+      </memberdef>
+      </sectiondef>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <inheritancegraph>
+      <node id="2">
+        <label>AddressGenerator</label>
+        <link refid="class_address_generator"/>
+        <childnode refid="1" relation="public-inheritance">
+        </childnode>
+      </node>
+      <node id="1">
+        <label>IAddress</label>
+        <link refid="interface_i_address"/>
+      </node>
+    </inheritancegraph>
+    <location file="C:/Users/Pc/OneDrive/Desktop/Ip/Ip/AddressGenerator.cs" line="4" column="11" bodyfile="C:/Users/Pc/OneDrive/Desktop/Ip/Ip/AddressGenerator.cs" bodystart="5" bodyend="8"/>
+    <listofallmembers>
+      <member refid="interface_i_address_1acc431740c074bb16af3de51ac0db06c4" prot="public" virt="non-virtual"><scope>IAddress</scope><name>generateIPv4</name></member>
+      <member refid="interface_i_address_1a0cf242a5563a18b93c0554a88b4bd29a" prot="public" virt="non-virtual"><scope>IAddress</scope><name>generateSubnet</name></member>
+    </listofallmembers>
+  </compounddef>
+</doxygen>

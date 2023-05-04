@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.9.6" xml:lang="en-US">
+  <compounddef id="md__c___users__pc__one_drive__desktop__ip__ip_index" kind="page">
+    <compoundname>md_C__Users_Pc_OneDrive_Desktop_Ip_Ip_index</compoundname>
+    <title>This is the &lt;strong&gt;HOMEPAGE&lt;/strong&gt;.</title>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+<para>Refer to <ulink url="http://daringfireball.net/projects/markdown/">Markdown</ulink> for how to write markdown files. </para>
+<sect1 id="md__c___users__pc__one_drive__desktop__ip__ip_index_1autotoc_md1">
+<title>Quick Start Notes:</title>
+<para><orderedlist>
+<listitem><para>Add images to <emphasis>images</emphasis> folder if the file is referencing an image. </para>
+</listitem></orderedlist>
+</para>
+</sect1>
+    </detaileddescription>
+    <location file="C:/Users/Pc/OneDrive/Desktop/Ip/Ip/index.md"/>
+  </compounddef>
+</doxygen>
